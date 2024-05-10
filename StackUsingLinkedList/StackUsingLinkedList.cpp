@@ -108,3 +108,6 @@ int main() {
 
 			}
 			break;
+		case 4:
+			cout << "Exitting program." << endl;
+			break;
